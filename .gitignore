@@ -1,0 +1,28 @@
+# Lean/Mathlib build artifacts
+*.olean
+*.olean.lock
+lakefiles
+/.cache
+/target
+/build
+
+# Editor configs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node/npm
+node_modules/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
